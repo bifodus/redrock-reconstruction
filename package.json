@@ -1,0 +1,19 @@
+{
+  "name": "redrock-reconstruction",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsdevel/redrock-reconstruction.git"
+  },
+  "author": "",
+  "license": "Private",
+  "bugs": {
+    "url": "https://github.com/jsdevel/redrock-reconstruction/issues"
+  },
+  "homepage": "https://github.com/jsdevel/redrock-reconstruction"
+}
